@@ -1,4 +1,4 @@
-# Tutorial testnet Chainflip Airdrop Finder
+# Tutorial testnet Chainflip
 
 ## Referensi
 
